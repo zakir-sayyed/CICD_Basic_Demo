@@ -1,2 +1,3 @@
-# CICD_Basic_Demo
-CICD Demo
+# maven-project
+
+Simple Maven Project
